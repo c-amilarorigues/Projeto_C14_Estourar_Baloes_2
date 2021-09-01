@@ -106,7 +106,7 @@ if (arrowGroup.isTouching(pinkB)) {
 
   
   drawSprites();
-  text("Score: "+ score, 300,50);
+  text("Pontuação: "+ score, 300,50);
 }
 
 
